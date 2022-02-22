@@ -1,0 +1,24 @@
+{
+  "name": "twitch-followercomparison",
+  "version": "0.1.0",
+  "description": "compares two .csv lists of followers",
+  "main": "follower-comparison.js",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "node": "^17.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "compare"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cerbion/twitch-followercomparison.git"
+  },
+  "author": "Cerbion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cerbion/twitch-followercomparison/issues"
+  },
+  "homepage": "https://github.com/Cerbion/twitch-followercomparison#readme"
+}
