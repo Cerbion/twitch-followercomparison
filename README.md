@@ -11,6 +11,8 @@ To use the BATCH File:
 5. Run the BATCH File or use `node follower-comparison.js`
 
 ### Usage:
+The follower list can be generated using CommanderRoot's tools: https://twitch-tools.rootonline.de/followinglist_viewer.php
+
 Entering `compare FileA.csv FileB.csv` will compare the two files, this can be a file in the same folder as the .exe or a relative or even absolute path on the system.
 
 Entering `quit` will close the program.
